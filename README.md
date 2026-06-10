@@ -1,5 +1,7 @@
 Kusonime Scraper-- Scraper Python buat ngambil data anime dari Kusonime. Dibuat pake Python + BeautifulSoup.
 
+![Preview](https://github.com/Zmy71/Kusonime-Scraper/blob/main/Screenshot_20260611-051326.png)
+
 ✨ Fitur
 - Scrape list anime terbaru
 - Ambil detail anime: judul, genre, sinopsis, link download
