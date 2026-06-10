@@ -11,17 +11,18 @@ Kusonime Scraper-- Scraper Python buat ngambil data anime dari Kusonime. Dibuat 
 1. Clone repo
 ```bash
 git clone https://github.com/zmy71/Kusonime-Scraper.git
-cd Kusonime-Scraper```
-
+cd Kusonime-Scraper
+```
 
 2. Install dependencies
 ```bash
-pip install requests beautifulsoup4```
-
+pip install requests beautifulsoup4
+```
 
 🚀 Cara Jalanin
 ```bash
-python 01.py```
+python 01.py
+```
 
 📦 Requirements
 - Python 3.8+
